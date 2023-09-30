@@ -45,7 +45,7 @@ pip install git+https://github.com/JunnYu/mish-cuda.git #ERROR
 pip install --upgrade -e .  # This will clone and install `onevision` package
 ```
 </details>
-![image (2)](https://github.com/vinh-nguyenxuan/DeepACO/assets/100479377/c8eab02d-1155-406b-af50-5ef70808c7df)
+![image (2)](https://github.com/vinh-nguyenxuan/DeepACO/assets/100479377/0d5294c3-9131-456e-9400-62b9f44e9917)
 
 
 ## Inference
