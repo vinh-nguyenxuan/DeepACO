@@ -42,10 +42,10 @@ cd ..
 conda activate one
 pip install git+https://github.com/JunnYu/mish-cuda.git #ERROR
 # Missing deepACO annotation file and 1 library belonging to DeepACO project management board in private mode so cannot be used
-![image (2)](https://github.com/vinh-nguyenxuan/DeepACO/assets/100479377/c8eab02d-1155-406b-af50-5ef70808c7df)
 pip install --upgrade -e .  # This will clone and install `onevision` package
 ```
 </details>
+![image (2)](https://github.com/vinh-nguyenxuan/DeepACO/assets/100479377/c8eab02d-1155-406b-af50-5ef70808c7df)
 
 
 ## Inference
