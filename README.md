@@ -8,6 +8,7 @@ building solutions for the 2022 AI City Challenge Track 4
 
 
 ## Image ERROR
+Missing deepACO annotation file and 1 library belonging to DeepACO project management board in private mode so cannot be used
 ![image (2)](https://github.com/vinh-nguyenxuan/DeepACO/assets/100479377/0d5294c3-9131-456e-9400-62b9f44e9917)
 
 ## Installation
@@ -45,7 +46,6 @@ conda init bash
 cd ..
 conda activate one
 pip install git+https://github.com/JunnYu/mish-cuda.git #ERROR
-# Missing deepACO annotation file and 1 library belonging to DeepACO project management board in private mode so cannot be used
 pip install --upgrade -e .  # This will clone and install `onevision` package
 ```
 </details>
