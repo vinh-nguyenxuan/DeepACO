@@ -6,6 +6,10 @@ building solutions for the 2022 AI City Challenge Track 4
 
 ![Example 02](docs/testA_2.gif)
 
+
+## Image ERROR
+![image (2)](https://github.com/vinh-nguyenxuan/DeepACO/assets/100479377/0d5294c3-9131-456e-9400-62b9f44e9917)
+
 ## Installation
 
 We recommend using Ubuntu 20.04, Python 3.9+ and PyTorch (version >= v1.11.0) with `conda` environment .
@@ -45,8 +49,6 @@ pip install git+https://github.com/JunnYu/mish-cuda.git #ERROR
 pip install --upgrade -e .  # This will clone and install `onevision` package
 ```
 </details>
-![image (2)](https://github.com/vinh-nguyenxuan/DeepACO/assets/100479377/0d5294c3-9131-456e-9400-62b9f44e9917)
-
 
 ## Inference
 
